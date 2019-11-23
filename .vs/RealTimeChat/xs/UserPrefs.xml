@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{8CA70308-C1E4-439C-A53A-A46350DB3711}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealTimeChat/Controllers/UploadController.cs">
+    <Files>
+      <File FileName="RealTimeChat/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="RealTimeChat/Startup.cs" />
+      <File FileName="RealTimeChat/Hubs/ChatHub.cs" />
+      <File FileName="RealTimeChat/appsettings.json" />
+      <File FileName="RealTimeChat/appsettings.Development.json" />
+      <File FileName="RealTimeChat/Properties/launchSettings.json" />
+      <File FileName="RealTimeChat/Hubs/MessageTemplate.cs" />
+      <File FileName="RealTimeChat/Controllers/UploadController.cs" Line="23" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealTimeChat" expanded="True">
+            <Node name="RealTimeChat" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UploadController.cs" selected="True" />
+              </Node>
+              <Node name="Hubs" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>client.ToString()</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RealTimeChat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/geyan/Projects/RealTimeChat/RealTimeChat/Controllers/UploadController.cs" relfile="RealTimeChat/Controllers/UploadController.cs" line="25" column="1" />
+      <Breakpoint file="/Users/geyan/Projects/RealTimeChat/RealTimeChat/Controllers/UploadController.cs" relfile="RealTimeChat/Controllers/UploadController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/geyan/Projects/RealTimeChat/RealTimeChat/Controllers/UploadController.cs" relfile="RealTimeChat/Controllers/UploadController.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
