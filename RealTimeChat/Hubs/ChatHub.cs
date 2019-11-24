@@ -30,5 +30,23 @@ namespace RealTimeChat.Hubs
             await client.SendAsync("receiveMsg", temp.message);
         }
 
+
+
+        public async Task notifyVoice(string msg)
+        {
+            try
+            {
+                MessageTemplate temp = JsonConvert.DeserializeObject<MessageTemplate>(msg);
+                string toWho = temp.toWho; ///userId --> connId
+                var client = Clients.Client(toWho);
+                await client.SendAsync("receiveVoice", temp.message,temp.voiceLength);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            
+        }
+
     }
 }

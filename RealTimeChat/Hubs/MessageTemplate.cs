@@ -7,6 +7,6 @@ namespace RealTimeChat.Hubs
         public string toWho { get; set; }
         public string fromWho { get; set; }
         public string message { get; set; }
-        
+        public string voiceLength { get; set; }
     }
 }

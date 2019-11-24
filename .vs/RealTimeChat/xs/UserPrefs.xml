@@ -8,7 +8,8 @@
       <File FileName="RealTimeChat/appsettings.Development.json" />
       <File FileName="RealTimeChat/Properties/launchSettings.json" />
       <File FileName="RealTimeChat/Hubs/MessageTemplate.cs" />
-      <File FileName="RealTimeChat/Controllers/UploadController.cs" Line="23" Column="63" />
+      <File FileName="RealTimeChat/Controllers/UploadController.cs" Line="32" Column="49" />
+      <File FileName="RealTimeChat/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,22 +25,13 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>client.ToString()</Value>
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.RealTimeChat PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/geyan/Projects/RealTimeChat/RealTimeChat/Controllers/UploadController.cs" relfile="RealTimeChat/Controllers/UploadController.cs" line="25" column="1" />
-      <Breakpoint file="/Users/geyan/Projects/RealTimeChat/RealTimeChat/Controllers/UploadController.cs" relfile="RealTimeChat/Controllers/UploadController.cs" line="29" column="1" />
-      <Breakpoint file="/Users/geyan/Projects/RealTimeChat/RealTimeChat/Controllers/UploadController.cs" relfile="RealTimeChat/Controllers/UploadController.cs" line="27" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
