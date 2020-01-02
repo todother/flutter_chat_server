@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeChat", "RealTimeChat\RealTimeChat.csproj", "{8CA70308-C1E4-439C-A53A-A46350DB3711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper", "DBHelper\DBHelper.csproj", "{1AAE9C7F-9889-4795-9BA3-9C525B5D624D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{8CA70308-C1E4-439C-A53A-A46350DB3711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA70308-C1E4-439C-A53A-A46350DB3711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA70308-C1E4-439C-A53A-A46350DB3711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAE9C7F-9889-4795-9BA3-9C525B5D624D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAE9C7F-9889-4795-9BA3-9C525B5D624D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAE9C7F-9889-4795-9BA3-9C525B5D624D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAE9C7F-9889-4795-9BA3-9C525B5D624D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

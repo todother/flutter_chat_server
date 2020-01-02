@@ -54,6 +54,7 @@ namespace RealTimeChat
             }
 
             app.UseSignalR(endpoint=>endpoint.MapHub<ChatHub>("/chatHub"));
+            app.UseSignalR(endpoint => endpoint.MapHub<WebRtcHub>("/webRtcHub"));
             app.UseCors(builder=>builder
             .AllowAnyHeader()
             .AllowAnyMethod()

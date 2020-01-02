@@ -1,0 +1,8 @@
+/Users/geyan/Projects/RealTimeChat/DBHelper/obj/Debug/netcoreapp2.2/DBHelper.csprojAssemblyReference.cache
+/Users/geyan/Projects/RealTimeChat/DBHelper/obj/Debug/netcoreapp2.2/DBHelper.AssemblyInfoInputs.cache
+/Users/geyan/Projects/RealTimeChat/DBHelper/obj/Debug/netcoreapp2.2/DBHelper.AssemblyInfo.cs
+/Users/geyan/Projects/RealTimeChat/DBHelper/bin/Debug/netcoreapp2.2/DBHelper.deps.json
+/Users/geyan/Projects/RealTimeChat/DBHelper/bin/Debug/netcoreapp2.2/DBHelper.dll
+/Users/geyan/Projects/RealTimeChat/DBHelper/bin/Debug/netcoreapp2.2/DBHelper.pdb
+/Users/geyan/Projects/RealTimeChat/DBHelper/obj/Debug/netcoreapp2.2/DBHelper.dll
+/Users/geyan/Projects/RealTimeChat/DBHelper/obj/Debug/netcoreapp2.2/DBHelper.pdb
