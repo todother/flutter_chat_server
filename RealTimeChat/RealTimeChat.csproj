@@ -17,4 +17,28 @@
   <ItemGroup>
     <Folder Include="Hubs\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\voiceTemp\f90b0d2d-64e6-42e0-8177-d2b399ea2678.mp3" />
+    <Content Remove="wwwroot\voiceTemp\56c6b15a-46ce-4116-bc15-409c4d8ffb3e.mp3" />
+    <Content Remove="wwwroot\voiceTemp\3621804a-85f7-4b02-b5a1-8abbde978f60.mp3" />
+    <Content Remove="wwwroot\voiceTemp\9ee3a3ee-c4d5-46c4-966c-3fbbf2bbc929.mp3" />
+    <Content Remove="wwwroot\voiceTemp\8c4a05b6-d98b-482c-8ae2-35702d10fde9.mp3" />
+    <Content Remove="wwwroot\voiceTemp\97f2dc1e-fdfe-4add-8f53-4e10d2e2f34f.mp3" />
+    <Content Remove="wwwroot\voiceTemp\7363f4b1-b69c-4527-8fc0-f04d9550fff2.mp3" />
+    <Content Remove="wwwroot\voiceTemp\8f681a55-a831-42f6-88c5-79e002301988.mp3" />
+    <Content Remove="wwwroot\voiceTemp\52861199-35c9-486b-959b-8789bc94e4f5.mp3" />
+    <Content Remove="wwwroot\voiceTemp\1f7c8ab4-322e-45c4-a2da-e47f67a8271d.mp3" />
+    <Content Remove="wwwroot\voiceTemp\38b693c0-9c1f-45fa-8e21-150f3bb6b8ca.mp3" />
+    <Content Remove="wwwroot\voiceTemp\1bc74d9f-9314-4f94-bbb9-f0417bf5ae59.mp3" />
+    <Content Remove="wwwroot\voiceTemp\a5470ff2-7e4e-4327-92fc-e200f67af6b7.mp3" />
+    <Content Remove="wwwroot\voiceTemp\8cdb73a6-e745-49ef-82cd-e4f436f86fd6.mp3" />
+    <Content Remove="wwwroot\voiceTemp\aa1c7b79-4891-4aa5-9ece-996db9b4c755.mp3" />
+    <Content Remove="wwwroot\voiceTemp\ed484987-1348-4788-bb6a-9fcd6883edd4.mp3" />
+    <Content Remove="wwwroot\voiceTemp\7b9c4567-6200-44a9-9911-8bc9d86170ba.mp3" />
+    <Content Remove="wwwroot\voiceTemp\328030e3-8441-475a-8c33-1e6e757bb42f.mp3" />
+    <Content Remove="wwwroot\voiceTemp\3a5b4d71-ef5e-40e1-b249-0028c3126049.mp3" />
+    <Content Remove="wwwroot\voiceTemp\d45e9c01-fb53-4897-9d43-e8d1538744c0.mp3" />
+    <Content Remove="wwwroot\voiceTemp\30400a48-8c25-4ec6-a244-cdbb32aa6e44.mp3" />
+    <Content Remove="wwwroot\voiceTemp\f5a70079-351b-44c7-8d82-ebbf822bf015.mp3" />
+  </ItemGroup>
 </Project>
